@@ -25,7 +25,4 @@ A full-stack real-time chat application built with **React**, **Tailwind CSS**, 
 - **MongoDB**
 - **Socket.IO Server**
 
----
-
-## 📁 Folder Structure
 
