@@ -8,10 +8,10 @@ A full-stack real-time chat application built with **React**, **Tailwind CSS**, 
 - 🧑‍🤝‍🧑 Real-time messaging using Socket.IO
 - ✅ Online/offline status indicators
 - 🕒 Message timestamps
-- 💬 Group & 1:1 chat support (optional based on your implementation)
+- 💬  1:1 chat support 
 - 🧠 Scalable backend with Express and MongoDB
 - 🎨 Responsive UI with TailwindCSS
-- 🔁 Persistent chat history from MongoDB
+
 
 ## 🛠 Tech Stack
 
